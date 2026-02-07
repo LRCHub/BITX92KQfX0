@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Fly and Fly",
+  "base_artist": "シーズ",
+  "createdAt": "2026-02-07T14:58:19.533548Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fly and Fly",
+      "artist": "シーズ",
+      "has_synced": false,
+      "path": "select/01_Fly_and_Fly_シーズ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fly and Fly (Off Vocal)",
+      "artist": "シーズ",
+      "has_synced": false,
+      "path": "select/02_Fly_and_Fly_(Off_Vocal)_シーズ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fly and Fly",
+      "artist": "シーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Fly_and_Fly_シーズ.txt"
+    }
+  ]
+}
